@@ -58,7 +58,7 @@
       "linkAfiliado": "https://mercadolibre.com/sec/1YQqu3F",
       "categoria": "accesorios",
       "duracionSegundos": 5,
-      "activo": false
+      "activo": true
     }
   ]
 }
