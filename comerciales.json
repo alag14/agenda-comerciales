@@ -3,7 +3,7 @@
     {
       "id": "1",
       "titulo": "🔊 Bocina barra 180w",
-      "descripcion": "¡Perfecta para tus hogar!",
+      "descripcion": "¡Perfecta para tu hogar!",
       "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_810976-MLA99524342036_122025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/2oB54aY",
       "categoria": "audio",
@@ -46,7 +46,7 @@
       "descripcion": "Controla tu música desde cualquier ángulo",
       "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_773927-MLA101792335058_122025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/11oiDuE",
-      "categoria": "accesorios",
+      "categoria": "audio",
       "duracionSegundos": 5,
       "activo": true
     },
@@ -56,7 +56,7 @@
       "descripcion": "Conexión estable y sin interferencias",
       "imagenUrl": " https://http2.mlstatic.com/D_NQ_NP_2X_699945-MLM85939671625_062025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/1YQqu3F",
-      "categoria": "cables",
+      "categoria": "accesorios",
       "duracionSegundos": 5,
       "activo": false
     }
