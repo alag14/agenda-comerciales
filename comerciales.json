@@ -12,7 +12,7 @@
     },
     {
       "id": "2",
-      "titulo": " 🔈 Bocina de 15 pulgadas perfecta para audio profesional",
+      "titulo": "🔈 Bocina de 15 pulgadas perfecta para audio profesional",
       "descripcion": "Audio de calidad para tus oidos. ¡Oferta especial!",
       "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_789751-MLA100057769239_122025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/1oaNAXJ",
@@ -42,7 +42,7 @@
     },
     {
       "id": "5",
-      "titulo": " 🎤 Microfono profesional, Calidad para tus voces",
+      "titulo": "🎤 Microfono profesional, Calidad para tus voces",
       "descripcion": "Controla tu música desde cualquier ángulo",
       "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_773927-MLA101792335058_122025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/11oiDuE",
@@ -57,6 +57,166 @@
       "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_699945-MLM85939671625_062025-F.webp",
       "linkAfiliado": "https://mercadolibre.com/sec/1YQqu3F",
       "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+     {
+      "id": "7",
+      "titulo": "💨 Liquido de camara de humo 1L",
+      "descripcion": "Líquido para máquina de humo ultraniebla. ",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_600267-MLM75619875739_042024-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2HT3zAr",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "8",
+      "titulo": "💨 Liquido de camara de humo 3.75L",
+      "descripcion": "Líquido para máquina de humo ultraniebla. ",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_654108-MLA99545012092_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1JUgt3Y",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "9",
+      "titulo": "🔌 Kit de Conector Speakon",
+      "descripcion": "Juego de conectores speakon hembra y macho",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_677215-MLM94596990010_102025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/28NeSLw",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+     {
+      "id": "10",
+      "titulo": "🔌 Driver Harden ksd-25",
+      "descripcion": "Driver de compresión para agudos.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_814413-MLM48272717694_112021-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1fibVQM",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "11",
+      "titulo": "Amplificador para graves.",
+      "descripcion": "Amplificador de 1800w rms, doble toroidal.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_647600-MLA105193717933_012026-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1fibVQM",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "12",
+      "titulo": "Cable de 4 polos cal 14.",
+      "descripcion": "Rollo de cable 100mtrs uso rudo 4 polos.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_631530-MLA95631203224_102025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1yeVMpo",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "13",
+      "titulo": "🔈 Bocina de 12 pulgadas perfecta para audio profesional.",
+      "descripcion": "Bocina 12 Pulgadas Schalter 500w 8ohms Bajos 80oz Msi Color Negro.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_643264-MLA99855012193_112025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1eZVUDm",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "14",
+      "titulo": "Amplificador para medios o graves.",
+      "descripcion": "Amplificador de 1300w rms, couperh 26000.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_669172-MLM93856893905_092025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2P8JpKp",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "15",
+      "titulo": "Subwoofer amplicado 800w rms.",
+      "descripcion": "Schalter Drakon Subwoofer 2x12 800w Rms Clase D Msi Negro.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_919764-MLM104788618365_012026-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2hDd7cd",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "16",
+      "titulo": "Bocina amplicada para monitor.",
+      "descripcion": "Bocina Monitor 8 Recargable Mezcladora 3canales Dsp Msi Negro.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_762315-MLA100094159966_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1QGuo86",
+      "categoria": "audio",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "17",
+      "titulo": "Emisor y receptor de micrófono inalámbrico.",
+      "descripcion": "Sistema De Micrófono Inalámbricos Transmisor + Receptor.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_680525-MLM98159090709_112025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1ocgSRa",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "18",
+      "titulo": "Ventilador para laptop.",
+      "descripcion": "Sistema De enfriamento para laptop.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_728201-MLA96145833105_102025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2yoBPNm",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "19",
+      "titulo": "Adaptador Usb",
+      "descripcion": "Adaptador Usb C Hub Usb 8 En 1 Multipuerto Hub Puertos Splitter Accesorios.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_647592-MLA99604068720_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1m2huCo",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "20",
+      "titulo": "Polipasto de Cadena",
+      "descripcion": "Polipastos Manuales Triangular 1 Tonelada 5 Metros Shawty Cadena de Acero al Manganeso para Edificios Industriales Shawty S0111A verde.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_682303-MLA99574283638_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/1YuDnyr",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "21",
+      "titulo": "Laptop para iluminación con freestyler",
+      "descripcion": "Laptop + Mochila Vivobook Ci31315u 8gb Ram 512ssd Asus.",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_775485-MLA99783579074_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2gN8Mgk",
+      "categoria": "accesorios",
+      "duracionSegundos": 5,
+      "activo": true
+    },
+    {
+      "id": "22",
+      "titulo": "Interfaz udmx",
+      "descripcion": "Interfaz udmx para freestyler, maneja tus luminarias con profesionalismo",
+      "imagenUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_734363-MLA102783823919_122025-F.webp",
+      "linkAfiliado": "https://mercadolibre.com/sec/2rYLGhf",
+      "categoria": "iluminacion",
       "duracionSegundos": 5,
       "activo": true
     }
